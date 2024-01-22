@@ -11,6 +11,12 @@ This web application allows users to get real-time weather information and timez
 
 ## Installation
 
+1. Cd to Desktop:
+
+   ```bash
+   cd desktop
+   
+
 1. Clone the repository:
 
    ```bash
